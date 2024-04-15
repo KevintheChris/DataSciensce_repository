@@ -5,7 +5,7 @@
 </p>
 
 # Kevin Gabriel
- Force (UNIFA).
+Estudante de Analise e desenvolvimento de sistemas no IESB, estou no 3° semestre do curso, e estou seguindo o rumo da carreira de cientista de dados, e aqui publicarei meus projetos
 
 **Background in:** Python, Machine Learning.
 
