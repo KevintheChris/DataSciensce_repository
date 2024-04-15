@@ -10,13 +10,12 @@ Estudante de Analise e desenvolvimento de sistemas no IESB, estou no 3° semestr
 **Background in:** Python, Machine Learning.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/kevin-costa-ds/))
+* [LinkedIn](https://www.linkedin.com/in/kevin-costa-ds/)
 * [Medium](https://www.medium.com)
 
 
 ## Projetos:
-
-
+* [Analisando os dados do airbnb-Lisboa](https://github.com/KevintheChris/Analisando-dados-do-airbnb)
 ---
 
 
